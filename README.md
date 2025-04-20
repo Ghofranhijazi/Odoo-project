@@ -1,7 +1,3 @@
-Here’s a polished Redme file for your Odoo cloud kitchen project with all requested links:
-
----
-
 # **Cloud Kitchen Ordering System**  
 *Built with Odoo Community Edition*  
 
